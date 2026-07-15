@@ -1,0 +1,17 @@
+{
+  "status": "active",
+  "server_type": "free",
+  "max_free_devices": 5,
+  "free_devices": [
+    "abc123def456",
+    "xyz789ghi012"
+  ],
+  "premium_devices": [
+    "premium123456",
+    "premium789012"
+  ],
+  "premium_expiry": {
+    "premium123456": "2026-12-31",
+    "premium789012": "2026-10-15"
+  }
+}
