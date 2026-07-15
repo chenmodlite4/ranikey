@@ -1,5 +1,5 @@
 {
-  "status": "active",
+  "status": "inactive",
   "server_type": "free",
   "max_free_devices": 5,
   "free_devices": [
