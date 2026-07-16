@@ -1,5 +1,5 @@
 {
-  "status": "OFF",
+  "status": "ON",
   "keys": [
     {"key": "VORTEX2026", "expiry": "2026-12-31"},
     {"key": "CHEN2026", "expiry": "2026-12-25"}
