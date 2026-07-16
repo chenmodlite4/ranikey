@@ -2,7 +2,7 @@
   "keys": [
     {
       "key": "FREE-2026-001",
-      "expiry": "2027-12-31T23:59:59",
+      "expiry": "2025-12-31T23:59:59",
       "type": "free",
       "device_limit": 0,
       "used_devices": []
@@ -16,7 +16,7 @@
     },
     {
       "key": "PAID-2026-002",
-      "expiry": "2027-12-31T23:59:59",
+      "expiry": "2025-12-31T23:59:59",
       "type": "paid",
       "device_limit": 1,
       "used_devices": []
