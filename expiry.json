@@ -1,10 +1,16 @@
 {
-  "expiry_date": "2027-07-16",
-  "password_required": true,
-  "password": "CHEN2024@GITHUB",
-  "password_2026-07-16": "CHEN2024_01",
-  "password_2026-07-17": "CHEN2024_02",
-  "password_2026-07-18": "CHEN2024_03",
-  "password_2026-07-19": "CHEN2024_04",
-  "password_2026-07-20": "CHEN2027_05"
+  "keys": [
+    {
+      "key": "YOUR_SECURE_KEY_1",
+      "expiry": "2027-12-31T23:59:59",
+      "device_limit": 3,
+      "version": "1.0"
+    },
+    {
+      "key": "YOUR_SECURE_KEY_2",
+      "expiry": "2026-12-31T23:59:59",
+      "device_limit": 1,
+      "version": "1.0"
+    }
+  ]
 }
