@@ -1,15 +1,9 @@
 {
   "keys": [
     {
-      "key": "YOUR_SECURE_KEY_1",
+      "key": "CHEN-TOOL-KEY-2026-001",
       "expiry": "2027-12-31T23:59:59",
-      "device_limit": 3,
-      "version": "1.0"
-    },
-    {
-      "key": "YOUR_SECURE_KEY_2",
-      "expiry": "2026-12-31T23:59:59",
-      "device_limit": 1,
+      "device_limit": 5,
       "version": "1.0"
     }
   ]
